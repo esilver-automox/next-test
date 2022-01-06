@@ -17,6 +17,7 @@ const WithStaticProps = ({ items }: Props) => (
       Example fetching data from inside <code>getStaticProps()</code>.
     </p>
     <p>You are currently on: /users</p>
+    <p>yo yo yo this is Erica coming in live with a test.</p>
     <List items={items} />
     <p>
       <Link href="/">
